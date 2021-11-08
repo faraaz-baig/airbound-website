@@ -74,3 +74,8 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# sveltekit build output
+.svelte-kit/
+
+package-lock.json
