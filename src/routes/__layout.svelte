@@ -1,0 +1,12 @@
+<script>
+	import '../app.css';
+	import Navbar from '../components/Navigation-bar/navbar.svelte';
+	import Sidebar from '../components/Navigation-bar/Sidebar.svelte';
+	import { open } from '../stores/sidebar';
+</script>
+
+<div class={`relative overflow-x-hidden ${$open ? 'overflow-hidden' : ''}  `}>
+	<Navbar />
+	<Sidebar />
+	<slot />
+</div>

@@ -1,0 +1,32 @@
+/* AOS Library CSS  */
+@import url('aos/dist/aos.css');
+
+/* Font Awesome Icons */
+@import url('https://use.fontawesome.com/releases/v5.15.3/css/all.css');
+
+/* Fonts  */
+@import url('../src/fonts/clashDisplay/ClashDisplay.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Hamburger Menu */
+@import url('/src/css/hamburger.css');
+
+.max-w-1260 {
+	max-width: 1260px;
+}
+
+*,
+html,
+body {
+	user-select: none;
+}
+
+::-webkit-scrollbar {
+	width: 0;
+	background: transparent;
+}
+
+/* tailwind CSS Imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
