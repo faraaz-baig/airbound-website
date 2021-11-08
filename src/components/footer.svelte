@@ -1,0 +1,59 @@
+<footer class="bg-blue-900 pb-12 font-heading">
+	<div class="max-w-1260 mx-auto text-white-100">
+		<div class="lg:flex lg:flex-row-reverse lg:justify-evenly lg:pt-8">
+			<div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 grid-div">
+				<img
+					class="col-span-4 lg:self-end md:col-span-8  lg:col-span-12 mx-auto mb-5 lg:mb-8"
+					src="/footer/footer_logo.svg"
+					alt=""
+				/>
+				<div class="col-span-4 md:col-span-8  lg:col-span-12 mx-auto mt-10 lg:mt-0">
+					<a class="icon p-2 mx-2" href="https://linkedin.com/company/airbound-co"
+						><i class="fab fa-linkedin-in" /></a
+					>
+					<a class="icon p-2 mx-2" href="https://instagram.com/airbound.co"
+						><i class="fab fa-instagram" /></a
+					>
+					<a class="icon p-2 mx-2" href="https://twitter.com/airbound_co"
+						><i class="fab fa-twitter" /></a
+					>
+					<a class="icon p-2 mx-2" href="mailto:finfo@airbound.co"><i class="far fa-envelope" /></a>
+				</div>
+			</div>
+			<div
+				class="grid w-10/12 lg:w-6/12 lg:mx-0 grid-cols-4 md:grid-cols-8 lg:grid-cols-12 my-14 lg:border-r lg:pr-20 mx-auto border-t border-b border-opacity-20 lg:border-t-0 lg:border-b-0 py-6 border-white-300"
+			>
+				<a class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4" href="/businesses"
+					>For Businesses</a
+				>
+				<a class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4" href="/careers"
+					>Careers</a
+				>
+				<a class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4" href="/faq">FAQs</a>
+				<a class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4" href="/about">About Us</a
+				>
+			</div>
+		</div>
+		<h1 class="text-sm my-3 opacity-50 text-center">&copy; Airbound Aerospace</h1>
+		<a class="block text-sm opacity-50 text-center" href="/privacy-policy">Privacy & Terms</a>
+	</div>
+</footer>
+
+<style>
+	.grid-div {
+		padding-top: 5rem;
+	}
+	.icon {
+		background: #172f63;
+		width: 28px;
+		height: 28px;
+		border-radius: 500px;
+	}
+	/* laptop Styles */
+
+	@media (min-width: 1024px) {
+		.grid-div {
+			padding-top: 0rem;
+		}
+	}
+</style>
