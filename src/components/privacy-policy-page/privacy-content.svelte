@@ -1,4 +1,4 @@
-<main class="col-span-4 md:col-span-8 lg:col-span-12">
+<main class="col-span-4 md:col-span-8 lg:col-span-12 px-6 sm:px-8 md:px-10 lg:px-12">
 	<h1>Privacy Policy for Airbound Aerospace Pvt Ltd.</h1>
 
 	<p>
@@ -181,8 +181,7 @@
 
 <style>
 	h1,
-	h2,
-	h3 {
+	h2 {
 		font-family: 'ClashDisplay';
 		font-weight: 600;
 		font-size: x-large;
@@ -190,22 +189,6 @@
 	}
 	ul {
 		list-style-type: disc;
-		list-style-position: inside;
-	}
-	ol {
-		list-style-type: decimal;
-		list-style-position: inside;
-	}
-	ul ul,
-	ol ul {
-		list-style-type: circle;
-		list-style-position: inside;
-		margin-left: 15px;
-	}
-	ol ol,
-	ul ol {
-		list-style-type: lower-latin;
-		list-style-position: inside;
-		margin-left: 15px;
+		list-style-position: outside;
 	}
 </style>
