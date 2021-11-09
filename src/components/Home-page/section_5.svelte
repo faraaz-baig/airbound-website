@@ -1,7 +1,7 @@
 <div class="bg-blue-500 section_5">
 	<div class="max-w-1260 mx-auto pb-28 lg:pt-28">
 		<div class="mobile__bg__container laptop-hidden">
-			<img class="pt-20 w-11/12 mx-auto" src="/section_5/specs.png" alt="" />
+			<img class="pt-20 w-11/12 mx-auto" src="/Home-page/section_5/drone_top_view.svg" alt="" />
 		</div>
 		<h1
 			class="section_5_heading font-heading font-semibold text-2xl sm:text-3xl md:text-4xl text-white-100 text-center mx-auto mt-10 lg:mt-0 lg:pt-10"

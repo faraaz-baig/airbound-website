@@ -1,7 +1,7 @@
 <div class="bg-blue-700 section_6">
 	<div class="max-w-1260 mx-auto py-28  grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12">
 		<div
-			class="col-span-4 md:col-span-8 lg:col-span-12 md:grid md:grid-cols-8 lg:grid-cols-12 rounded-2xl bg-blue-500 w-11/12 lg:w-9/12 mx-auto"
+			class="col-span-4 md:col-span-8 lg:col-span-12 md:grid md:grid-cols-8 lg:grid-cols-12 rounded-lg bg-blue-500 w-11/12 lg:w-9/12 mx-auto"
 		>
 			<div class="section_6_img md:col-span-4 lg:col-span-6">
 				<img src="/Home-page/section_6/ppl.png" alt="" />
@@ -34,12 +34,12 @@
 		margin-right: auto;
 	}
 	.section_6_img {
-		background-image: url('/Home-page/section_6/biz.png');
+		background-image: url('/Home-page/section_6/biz.svg');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position-y: 50%;
 		height: 450px;
-		border-radius: 1rem 1rem 0 0;
+		border-radius: 0.5rem 0.5rem 0 0;
 	}
 	.section_6 {
 		background-image: url('/Home-page/section_3/pattern.png');

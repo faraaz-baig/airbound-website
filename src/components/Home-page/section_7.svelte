@@ -1,7 +1,7 @@
 <div class="bg-blue-800 text-white-100 section_7 buildings-bg">
 	<div class="max-w-1260 mx-auto grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 ">
 		<div
-			class="form-div mt-10 md:mt-0 shadow-4xl bg-blue-500 col-span-4 md:col-span-8 lg:col-span-12 p-4 rounded-2xl md:rounded-b-3xl md:rounded-t-none"
+			class="form-div mt-10 md:mt-0 shadow-4xl bg-blue-500 col-span-4 md:col-span-8 lg:col-span-12 p-4 rounded-lg md:rounded-b-lg md:rounded-t-none"
 		>
 			<h1
 				class="font-heading text-xl sm:text-2xl md:text-3xl lg:text-4xl my-6 font-semibold lg:mt-16 mx-auto w-72 sm:w-80 md:w-96 w-100 text-center tracking-wider"
@@ -16,14 +16,14 @@
 				the future of easy & seamless deliveries!
 			</p>
 			<form
-				class="mt-10 mb-5 bg-white-100 bg-opacity-20 w-full rounded-2xl lg:mb-16 lg:pt-1 font-heading flex relative"
+				class="mt-10 mb-5 bg-white-100 bg-opacity-20 w-full rounded-lg lg:mb-16 lg:pt-1 font-heading flex relative"
 			>
 				<input
 					placeholder="Enter Your Email"
 					class="p-4 bg-transparent z-0 text-xs md:text-base"
 					type="text"
 				/>
-				<button class="py-2 text-sm flex-grow-0 px-3 absolute z-10 rounded-xl right-2"
+				<button class="py-2 text-sm flex-grow-0 px-3 absolute z-10 rounded-md right-2"
 					>Join our waitlist</button
 				>
 			</form>

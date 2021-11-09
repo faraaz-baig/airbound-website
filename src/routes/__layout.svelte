@@ -1,4 +1,5 @@
 <script>
+	import Footer from '../components/footer.svelte';
 	import '../app.css';
 	import Navbar from '../components/Navigation-bar/navbar.svelte';
 	import Sidebar from '../components/Navigation-bar/Sidebar.svelte';
@@ -9,4 +10,5 @@
 	<Navbar />
 	<Sidebar />
 	<slot />
+	<Footer />
 </div>

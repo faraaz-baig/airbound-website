@@ -7,28 +7,28 @@
 		/>
 		<div class="mt-16 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12">
 			<img
-				class="col-span-4 shadow-2xl w-6/12  md:w-8/12 lg:w-10/12 mx-auto   my-5 md:my-10"
-				src="/Home-page/section_3/med.png"
+				class="col-span-4 shadow-2xl w-6/12 md:w-8/12 lg:w-10/12 mx-auto my-5 md:my-10"
+				src="/Home-page/section_3/medicine.svg"
 				alt=""
 			/>
 			<img
 				class="col-span-4 shadow-2xl w-6/12  md:w-8/12 lg:w-10/12 mx-auto   my-5 md:my-10"
-				src="/Home-page/section_3/grocery.png"
+				src="/Home-page/section_3/groceries.svg"
 				alt=""
 			/>
 			<img
 				class="col-span-4 shadow-2xl w-6/12  md:w-8/12 lg:w-10/12 mx-auto  my-5 md:my-10"
-				src="/Home-page/section_3/food.png"
+				src="/Home-page/section_3/food.svg"
 				alt=""
 			/>
 			<img
 				class="col-span-4 shadow-2xl w-6/12 lg:col-span-6 md:w-8/12 lg:w-7/12 mx-auto lg:mx-0 lg:justify-self-end lg:mr-10 my-5 md:my-10"
-				src="/Home-page/section_3/stationary.png"
+				src="/Home-page/section_3/stationary.svg"
 				alt=""
 			/>
 			<img
 				class="col-span-4 shadow-2xl md:col-span-8 lg:col-span-6 w-6/12 md:w-4/12 lg:w-7/12 mx-auto lg:ml-10 lg:mx-0 my-5 md:my-10"
-				src="/Home-page/section_3/equipment.png"
+				src="/Home-page/section_3/equipment.svg"
 				alt=""
 			/>
 		</div>

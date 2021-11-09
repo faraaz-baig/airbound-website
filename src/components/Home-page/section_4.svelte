@@ -247,7 +247,7 @@
 			width: 39px;
 			height: 70px;
 			background-color: #1d3dae;
-			background-image: url('/section_4/point.svg');
+			background-image: url('/Home-page/section_4/point.svg');
 			background-repeat: no-repeat;
 		}
 
@@ -260,7 +260,7 @@
 			width: 39px;
 			height: 70px;
 			background-color: #1d3dae;
-			background-image: url('/section_4/point.svg');
+			background-image: url('/Home-page/section_4/point.svg');
 			background-repeat: no-repeat;
 			margin-top: -20px;
 		}
@@ -273,7 +273,7 @@
 			width: 39px;
 			height: 15rem;
 			background-color: #1d3dae;
-			background-image: url('/section_4/point.svg');
+			background-image: url('/Home-page/section_4/point.svg');
 			background-repeat: no-repeat;
 			margin-top: -20px;
 		}
