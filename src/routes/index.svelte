@@ -8,10 +8,6 @@
 	import Section_7 from '../components/Home-page/section_7.svelte';
 </script>
 
-<svelte:head>
-	<title>Airbound | Delivery made simple</title>
-</svelte:head>
-
 <main>
 	<!-- hero section -->
 	<HeroSection />

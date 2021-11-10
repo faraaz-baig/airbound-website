@@ -60,6 +60,9 @@
 </div>
 
 <style>
+	img {
+		pointer-events: none;
+	}
 	.range_bg {
 		margin-left: -100px;
 		margin-top: -10px;

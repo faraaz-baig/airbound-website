@@ -11,34 +11,37 @@
 		<div class="mt-16 laptop-hidden">
 			<img
 				class="w-7/12 sm:w-6/12 md:w-5/12 mx-auto my-8"
-				src="/Home-page/section_5/privacy.png"
+				src="/Home-page/section_5/privacy.svg"
 				alt=""
 			/>
 			<img
 				class="w-7/12 sm:w-6/12 md:w-5/12 mx-auto my-8"
-				src="/Home-page/section_5/ai.png"
+				src="/Home-page/section_5/ai_powered.svg"
 				alt=""
 			/>
 			<img
 				class="w-7/12 sm:w-6/12 md:w-5/12 mx-auto my-8"
-				src="/Home-page/section_5/tailsitter.png"
+				src="/Home-page/section_5/innovative.svg"
 				alt=""
 			/>
 			<img
 				class="w-7/12 sm:w-6/12 md:w-5/12 mx-auto my-8"
-				src="/Home-page/section_5/eco.png"
+				src="/Home-page/section_5/eco_friendly.svg"
 				alt=""
 			/>
 		</div>
 		<img
 			class="laptop_only_container w-11/12 mx-auto lg:mt-24"
-			src="/Home-page/section_5/laptop-img.png"
+			src="/Home-page/section_5/drone_section.svg"
 			alt=""
 		/>
 	</div>
 </div>
 
 <style>
+	img {
+		pointer-events: none;
+	}
 	.laptop_only_container {
 		display: none;
 	}

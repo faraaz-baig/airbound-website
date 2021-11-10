@@ -1,7 +1,7 @@
 <div class="section_3 bg-blue-600">
 	<div class="max-w-1260 mx-auto py-28">
 		<img
-			class="mx-auto w-7/12 sm:w-6/12 md:w-5/12 lg:w-5/12"
+			class="mx-auto w-7/12 sm:w-6/12 md:w-5/12 lg:w-4/12"
 			src="/Home-page/section_3/heading.svg"
 			alt="heading"
 		/>
@@ -36,6 +36,9 @@
 </div>
 
 <style>
+	img {
+		pointer-events: none;
+	}
 	.section_3 {
 		background-image: url('/Home-page/section_3/pattern.png');
 		background-repeat: repeat;

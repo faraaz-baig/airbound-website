@@ -8,16 +8,30 @@
 					alt=""
 				/>
 				<div class="col-span-4 md:col-span-8  lg:col-span-12 mx-auto mt-10 lg:mt-0">
-					<a class="icon p-2 mx-2" href="https://linkedin.com/company/airbound-co"
-						><i class="fab fa-linkedin-in" /></a
+					<a
+						target="_blank"
+						rel="noopener noreferrer"
+						class="icon p-2 mx-2"
+						href="https://linkedin.com/company/airbound-co"><i class="fab fa-linkedin-in" /></a
 					>
-					<a class="icon p-2 mx-2" href="https://instagram.com/airbound.co"
-						><i class="fab fa-instagram" /></a
+					<a
+						target="_blank"
+						rel="noopener noreferrer"
+						class="icon p-2 mx-2"
+						href="https://instagram.com/airbound.co"><i class="fab fa-instagram" /></a
 					>
-					<a class="icon p-2 mx-2" href="https://twitter.com/airbound_co"
-						><i class="fab fa-twitter" /></a
+					<a
+						target="_blank"
+						rel="noopener noreferrer"
+						class="icon p-2 mx-2"
+						href="https://twitter.com/airbound_co"><i class="fab fa-twitter" /></a
 					>
-					<a class="icon p-2 mx-2" href="mailto:finfo@airbound.co"><i class="far fa-envelope" /></a>
+					<a
+						target="_blank"
+						rel="noopener noreferrer"
+						class="icon p-2 mx-2"
+						href="mailto:finfo@airbound.co"><i class="far fa-envelope" /></a
+					>
 				</div>
 			</div>
 			<div
@@ -49,6 +63,9 @@
 </footer>
 
 <style>
+	img {
+		pointer-events: none;
+	}
 	.grid-div {
 		padding-top: 5rem;
 	}

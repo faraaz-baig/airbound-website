@@ -28,6 +28,9 @@
 </div>
 
 <style>
+	img {
+		pointer-events: none;
+	}
 	.section_6_img img {
 		width: 20rem;
 		margin-left: auto;

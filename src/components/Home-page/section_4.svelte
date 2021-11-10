@@ -24,7 +24,7 @@
 				<img src="/Home-page/section_4/step2.png" alt="" />
 				<div class="timeline__text text-white-100">
 					<h1 class="text-green-500 font-medium text-sm tracking-widest">STEP 2</h1>
-					<h2 class="font-medium">Wait for 5 minutes while our drones do their thing</h2>
+					<h2 class="font-medium">Wait for 5 minutes while our drones do their magic</h2>
 				</div>
 			</div>
 			<div class="timeline__middle">
@@ -52,7 +52,7 @@
 			</div>
 			<div class="laptop_timeline__middle__text text-white-100 text-right">
 				<h1 class="text-green-500 font-medium text-sm tracking-widest">STEP 2</h1>
-				<h2 class="font-medium">Wait for 5 minutes while our drones do their thing</h2>
+				<h2 class="font-medium">Wait for 5 minutes while our drones do their magic</h2>
 			</div>
 			<div class="laptop_timeline__middle">
 				<div class="laptop_timeline__middle__point" />
@@ -75,6 +75,9 @@
 </div>
 
 <style>
+	img {
+		pointer-events: none;
+	}
 	.laptop_timeline {
 		display: none;
 	}

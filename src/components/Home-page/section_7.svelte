@@ -20,7 +20,7 @@
 			>
 				<input
 					placeholder="Enter Your Email"
-					class="p-4 bg-transparent z-0 text-xs md:text-base"
+					class="p-4 bg-transparent z-0 text-sm md:text-base"
 					type="text"
 				/>
 				<button class="py-2 text-sm flex-grow-0 px-3 absolute z-10 rounded-md right-2"
