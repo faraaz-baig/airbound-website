@@ -31,17 +31,17 @@
 			</div>
 		</div>
 		<img
-			class="absolute bottom-0 right-0 moblie_image"
+			class="absolute bottom-0 right-0 moblie_image pointer-events-none"
 			src="/Home-page/hero-section/building_right_mobile.svg"
 			alt=""
 		/>
 		<img
-			class="absolute bottom-0 right-0 laptop_image"
+			class="absolute bottom-0 right-0 laptop_image pointer-events-none"
 			src="/Home-page/hero-section/laptop_right.svg"
 			alt=""
 		/>
 		<img
-			class="absolute bottom-0 left-0 laptop_image"
+			class="absolute bottom-0 left-0 laptop_image pointer-events-none"
 			src="/Home-page/hero-section/laptop_left.svg"
 			alt=""
 		/>

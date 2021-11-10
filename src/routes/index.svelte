@@ -6,6 +6,11 @@
 	import Section_5 from '../components/Home-page/section_5.svelte';
 	import Section_6 from '../components/Home-page/section_6.svelte';
 	import Section_7 from '../components/Home-page/section_7.svelte';
+	import { onMount } from 'svelte';
+
+	onMount(() => {
+		window.scrollTo(0, 0);
+	});
 </script>
 
 <main>
