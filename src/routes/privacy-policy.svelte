@@ -12,7 +12,7 @@
 		<div
 			class="max-w-1260 text-white-100 mx-auto px-6 pb-20 pt-36 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
 		>
-			<h1 class="text-2xl font-heading font-semibold col-span-3 w-64">Privacy & Terms</h1>
+			<h1 class="text-4xl font-heading font-semibold col-span-3 w-80">Privacy & Terms</h1>
 		</div>
 	</div>
 	<div class="bg-blue-700">
