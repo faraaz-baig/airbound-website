@@ -6,7 +6,7 @@
 	on:click={() => {
 		$open = false;
 	}}
-	class={`fixed overflow-y-scroll h-screen text-center flex flex-col text-2xl xl:text-3xl font-heading text-white-100 bg-blue-800 bg-opacity-90 pt-44 lg:pt-20 xl:pt-40 z-40 w-full ${
+	class={`fixed overflow-y-scroll h-screen text-center flex flex-col justify-center items-center text-2xl xl:text-3xl font-heading text-white-100 bg-blue-800 bg-opacity-90 z-40 w-full ${
 		$open ? 'open' : ''
 	}`}
 >

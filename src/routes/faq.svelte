@@ -1,6 +1,9 @@
 <script>
-	import Accordion from '../components/faq/accordion.svelte';
+	import Accordion_1 from '../components/faq/accordion_1.svelte';
 	import { onMount } from 'svelte';
+	import Accordion_2 from '../components/faq/accordion_2.svelte';
+	import Accordion_3 from '../components/faq/accordion_3.svelte';
+	import Accordion_4 from '../components/faq/accordion_4.svelte';
 
 	onMount(() => {
 		window.scrollTo(0, 0);
@@ -31,7 +34,10 @@
 				in urban and rural areas. Our Drones is designed to be the fastest and safest system ever.
 			</div>
 			<div class="col-span-4 md:col-span-8 lg:col-span-12">
-				<Accordion />
+				<Accordion_1 />
+				<Accordion_2 />
+				<Accordion_3 />
+				<Accordion_4 />
 			</div>
 		</div>
 	</div>

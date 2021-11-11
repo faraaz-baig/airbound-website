@@ -1,3 +1,16 @@
+<script>
+	import supabase from '$lib/db';
+	let email;
+	let submit = false;
+	async function sendData() {
+		const { error } = await supabase
+			.from('email_entries')
+			.insert([{ email: email }], { returning: 'minimal' });
+		if (error) throw new Error(console.log(error.message));
+		return;
+	}
+</script>
+
 <div class="bg-blue-800 text-white-100 section_7 buildings-bg">
 	<div class="max-w-1260 mx-auto grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 ">
 		<div
@@ -16,17 +29,31 @@
 				the future of easy & seamless deliveries!
 			</p>
 			<form
-				class="mt-10 mb-5 bg-white-100 bg-opacity-20 w-full rounded-lg lg:mb-16 lg:pt-1 font-heading flex relative"
+				on:submit|preventDefault={() => (submit = true)}
+				class="mt-10 mb-5 bg-white-100 bg-opacity-20 w-full rounded-lg lg:mb-8 lg:pt-1 font-heading flex relative"
 			>
 				<input
+					bind:value={email}
 					placeholder="Enter Your Email"
+					required="true"
 					class="p-4 bg-transparent z-0 text-sm md:text-base"
-					type="text"
+					type="email"
 				/>
-				<button class="py-2 text-sm flex-grow-0 px-3 absolute z-10 rounded-md right-2"
+				<button
+					on:click={() => (submit = false)}
+					class="py-2 text-sm flex-grow-0 px-3 absolute z-10 rounded-md right-2"
 					>Join our waitlist</button
 				>
 			</form>
+			{#if submit}
+				{#await sendData()}
+					<p class="text-center opacity-60 text-xs">Sending data...</p>
+				{:then data}
+					<p class="text-center opacity-60 text-xs">Succesfully registered your email!</p>
+				{:catch error}
+					<p class="text-center opacity-60 text-xs">Some thing went wrong :(</p>
+				{/await}
+			{/if}
 		</div>
 	</div>
 </div>
