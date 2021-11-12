@@ -136,36 +136,24 @@
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/1517.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">1517 Fund</h1>
-					<p class="font-heading font-medium text-center tracking-wider mt-4">
-						Peter Theil backed fund
-					</p>
 				</div>
 				<div
 					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/helpful.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Helpful Engineering</h1>
-					<p class="font-heading font-medium text-center tracking-wider mt-4">
-						Non Profit for Engineers
-					</p>
 				</div>
 				<div
 					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/ev.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Emergent Ventures</h1>
-					<p class="font-heading font-medium text-center tracking-wider mt-4">
-						Theil Foundation grant
-					</p>
 				</div>
 				<div
 					class="investor-card py-14 px-10 mx-auto col-span-4  flex my-10 flex-col justify-center items-center"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/gc.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Grad Capital</h1>
-					<p class="font-heading font-medium tracking-wider text-center mt-4">
-						VC backing student entrrepreneurs
-					</p>
 				</div>
 			</div>
 			<img
