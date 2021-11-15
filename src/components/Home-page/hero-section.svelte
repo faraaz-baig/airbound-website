@@ -91,22 +91,22 @@
 		width: calc(100% - 140px);
 	}
 
-	::-webkit-input-placeholder {
+	input::-webkit-input-placeholder {
 		color: white;
 		opacity: 1;
 	}
 
-	::-moz-placeholder {
+	input::-moz-placeholder {
 		color: white;
 		opacity: 1;
 	}
 
-	::-ms-placeholder {
+	input::-ms-placeholder {
 		color: white;
 		opacity: 1;
 	}
 
-	::placeholder {
+	input::placeholder {
 		color: white;
 		opacity: 1;
 	}
