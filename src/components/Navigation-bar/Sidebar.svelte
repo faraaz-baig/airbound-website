@@ -6,16 +6,17 @@
 	on:click={() => {
 		$open = false;
 	}}
-	class={`fixed overflow-y-scroll h-screen text-center flex flex-col justify-center items-center text-2xl xl:text-3xl font-heading text-white-100 bg-blue-800 bg-opacity-90 z-40 w-full ${
+	class={`fixed overflow-y-scroll min-h-screen text-center flex flex-col justify-center items-center text-lg lg:text-xl xl:text-2xl font-heading text-white-100 bg-blue-800 bg-opacity-90 z-40 w-full ${
 		$open ? 'open' : ''
 	}`}
 >
-	<nav class="px-16 flex flex-col items-start">
+	<nav class="px-16 pt-14 flex flex-col items-start">
 		<a class="pb-5 mx-auto" href="/businesses">For Businesses</a>
+		<a class="py-5 mx-auto" href="/">Home</a>
 		<a class="py-5 mx-auto" href="/about">About Us</a>
 		<a class="py-5 mx-auto" href="/faq">FAQs</a>
 		<a class="py-5 mx-auto" href="/careers">Careers</a>
-		<a class="py-5 mb-28 md:mb-28 lg:mb-10 xl:mb-28 mx-auto" href="/contact">Contact Us</a>
+		<a class="py-5 mb-20 md:mb-20 lg:mb-8 xl:mb-16 mx-auto" href="/contact">Contact Us</a>
 	</nav>
 
 	<div class="mx-auto">

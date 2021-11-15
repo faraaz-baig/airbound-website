@@ -10,7 +10,9 @@
 	<div class="banner">
 		<div class="max-w-1260 text-white-100 mx-auto px-6 pb-20 pt-36">
 			<div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12">
-				<div class="font-body text-max-560 mx-auto col-span-4 lg:col-span-6 md:mt-12">
+				<div
+					class="font-body text-base sm:text-lg text-max-560 mx-auto col-span-4 lg:col-span-6 md:mt-12"
+				>
 					<h1 class="text-4xl font-heading font-semibold">About Us</h1>
 					<p class="col-span-4 lg:col-span-6 lg:mx-auto my-5 md:mt-5">
 						With a combination of mobile technology, autonomous drones and our strong network of
@@ -162,7 +164,7 @@
 					href="https://mercatus.org/emergent-ventures"
 					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
 				>
-					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/ev.png" alt="" />
+					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/EV.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Emergent Ventures</h1>
 				</a>
 				<a

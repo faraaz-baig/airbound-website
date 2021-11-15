@@ -31,7 +31,7 @@
 			on:click={() => {
 				$open = false;
 			}}
-			href="/"><Logo /></a
+			href="/businesses"><Logo /></a
 		>
 		<Hamburger />
 	</div>
