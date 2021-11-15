@@ -70,24 +70,20 @@
 	form input {
 		width: calc(100% - 140px);
 	}
-	input::-webkit-input-placeholder {
+	::-webkit-input-placeholder {
 		color: white;
-		opacity: 1;
 	}
 
-	input::-moz-placeholder {
+	::-moz-placeholder {
 		color: white;
-		opacity: 1;
 	}
 
-	input::-ms-placeholder {
+	::-ms-placeholder {
 		color: white;
-		opacity: 1;
 	}
 
-	input::placeholder {
+	::placeholder {
 		color: white;
-		opacity: 1;
 	}
 	input:focus {
 		outline: none;
