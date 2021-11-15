@@ -71,19 +71,19 @@
 		width: calc(100% - 140px);
 	}
 	::-webkit-input-placeholder {
-		color: white;
+		color: #ffffff;
 	}
 
 	::-moz-placeholder {
-		color: white;
+		color: #ffffff;
 	}
 
 	::-ms-placeholder {
-		color: white;
+		color: #ffffff;
 	}
 
 	::placeholder {
-		color: white;
+		color: #ffffff;
 	}
 	input:focus {
 		outline: none;
