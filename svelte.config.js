@@ -1,4 +1,6 @@
 import preprocess from 'svelte-preprocess';
+import vercel from '@sveltejs/adapter-vercel';
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
@@ -7,7 +9,8 @@ const config = {
 		ssr: false,
 		prerender: {
 			enabled: false
-		}
+		},
+		adapter: vercel()
 	},
 
 	preprocess: [
