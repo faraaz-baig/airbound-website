@@ -90,20 +90,19 @@
 	form input {
 		width: calc(100% - 140px);
 	}
-
-	input::-webkit-input-placeholder {
+	*::-webkit-input-placeholder {
 		color: #ffffff;
 	}
 
-	input::-moz-placeholder {
+	*::-moz-placeholder {
 		color: #ffffff;
 	}
 
-	input::-ms-placeholder {
+	*::-ms-placeholder {
 		color: #ffffff;
 	}
 
-	input::placeholder {
+	*::placeholder {
 		color: #ffffff;
 	}
 
