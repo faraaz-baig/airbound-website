@@ -37,7 +37,7 @@
 						bind:value={email}
 						required="true"
 						placeholder="Enter Your Email"
-						class="p-4 bg-transparent z-0 text-sm md:text-base"
+						class="p-4 bg-transparent z-0 text-sm md:text-base placeholder-white"
 						type="email"
 					/>
 					<button
@@ -89,21 +89,6 @@
 	}
 	form input {
 		width: calc(100% - 140px);
-	}
-	*::-webkit-input-placeholder {
-		color: #ffffff;
-	}
-
-	*::-moz-placeholder {
-		color: #ffffff;
-	}
-
-	*::-ms-placeholder {
-		color: #ffffff;
-	}
-
-	*::placeholder {
-		color: #ffffff;
 	}
 
 	input:focus {
