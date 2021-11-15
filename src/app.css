@@ -12,6 +12,33 @@
 	max-width: 1260px;
 }
 
+/* do not group these rules */
+*::-webkit-input-placeholder {
+	color: #ffffff;
+}
+*:-moz-placeholder {
+	/* FF 4-18 */
+	color: #ffffff;
+	opacity: 1;
+}
+*::-moz-placeholder {
+	/* FF 19+ */
+	color: #ffffff;
+	opacity: 1;
+}
+*:-ms-input-placeholder {
+	/* IE 10+ */
+	color: #ffffff;
+}
+*::-ms-input-placeholder {
+	/* Microsoft Edge */
+	color: #ffffff;
+}
+*::placeholder {
+	/* modern browser */
+	color: #ffffff;
+}
+
 *,
 html,
 body {
