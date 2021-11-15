@@ -90,10 +90,27 @@
 	form input {
 		width: calc(100% - 140px);
 	}
+
+	::-webkit-input-placeholder {
+		color: white;
+		opacity: 1;
+	}
+
+	::-moz-placeholder {
+		color: white;
+		opacity: 1;
+	}
+
+	::-ms-placeholder {
+		color: white;
+		opacity: 1;
+	}
+
 	::placeholder {
 		color: white;
 		opacity: 1;
 	}
+
 	input:focus {
 		outline: none;
 	}
