@@ -70,19 +70,19 @@
 	form input {
 		width: calc(100% - 140px);
 	}
-	::-webkit-input-placeholder {
+	input::-webkit-input-placeholder {
 		color: #ffffff;
 	}
 
-	::-moz-placeholder {
+	input::-moz-placeholder {
 		color: #ffffff;
 	}
 
-	::-ms-placeholder {
+	input::-ms-placeholder {
 		color: #ffffff;
 	}
 
-	::placeholder {
+	input::placeholder {
 		color: #ffffff;
 	}
 	input:focus {

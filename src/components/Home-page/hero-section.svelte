@@ -92,23 +92,19 @@
 	}
 
 	input::-webkit-input-placeholder {
-		color: white;
-		opacity: 1;
+		color: #ffffff;
 	}
 
 	input::-moz-placeholder {
-		color: white;
-		opacity: 1;
+		color: #ffffff;
 	}
 
 	input::-ms-placeholder {
-		color: white;
-		opacity: 1;
+		color: #ffffff;
 	}
 
 	input::placeholder {
-		color: white;
-		opacity: 1;
+		color: #ffffff;
 	}
 
 	input:focus {
