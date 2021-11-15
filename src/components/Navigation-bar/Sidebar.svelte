@@ -11,14 +11,14 @@
 	}`}
 >
 	<nav class="px-16 flex flex-col items-start">
-		<a class="py-5 mx-auto" href="/businesses">For Businesses</a>
+		<a class="pb-5 mx-auto" href="/businesses">For Businesses</a>
 		<a class="py-5 mx-auto" href="/about">About Us</a>
 		<a class="py-5 mx-auto" href="/faq">FAQs</a>
 		<a class="py-5 mx-auto" href="/careers">Careers</a>
 		<a class="py-5 mb-28 md:mb-28 lg:mb-10 xl:mb-28 mx-auto" href="/contact">Contact Us</a>
 	</nav>
 
-	<div class="mx-auto pb-10">
+	<div class="mx-auto">
 		<ul class="flex  flex-row mx-auto lg:text-2xl">
 			<li class="mr-10">
 				<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/airbound_co"

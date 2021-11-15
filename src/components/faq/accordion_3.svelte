@@ -5,7 +5,7 @@
 <main class="accordion">
 	<div class="accordion-item">
 		<div
-			class="accordion-item-header text-base sm:text-xl md:text-2xl lg:text-3xl font-semibold"
+			class="accordion-item-header text-base sm:text-xl md:text-2xl tracking-wider font-semibold"
 			on:click={() => {
 				$accordion_3_open = !$accordion_3_open;
 			}}

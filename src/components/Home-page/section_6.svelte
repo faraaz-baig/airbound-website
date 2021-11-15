@@ -12,7 +12,7 @@
 				<h1 class="font-heading text-3xl sm:text-4xl md:text-4xl font-semibold">
 					<span class="text-green-500">Empowering</span> Small & Big Businesses
 				</h1>
-				<p class="font-body mt-4 text-base lg:text-lg">
+				<p class="font-body mt-4 sm:text-sm md:text-base">
 					We not only help our customers by delivering their orders, but we also empower and support
 					small and big businesses!
 				</p>

@@ -5,3 +5,4 @@ export let accordion_1_open = writable(true);
 export let accordion_2_open = writable(true);
 export let accordion_3_open = writable(true);
 export let accordion_4_open = writable(true);
+export let job_desc_1_open = writable(true);

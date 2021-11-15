@@ -5,7 +5,7 @@
 <main class="accordion">
 	<div class="accordion-item">
 		<div
-			class="accordion-item-header text-base sm:text-xl md:text-2xl lg:text-3xl font-semibold"
+			class="accordion-item-header text-base sm:text-xl md:text-2xl tracking-wider font-semibold"
 			on:click={() => {
 				$accordion_4_open = !$accordion_4_open;
 			}}
@@ -29,13 +29,28 @@
 				<p class="text-base sm:text-lg">
 					So far, we’ve raised funding through multiple grants from <a
 						class="underline"
+						target="_blank"
+						rel="noopener noreferrer"
 						href="https://helpfulengineering.org/">Helpful Engineering</a
-					>, <a class="underline" href="https://www.1517fund.com/">1517 Fund</a>, and
-					<a class="underline" href="https://www.mercatus.org/emergent-ventures"
-						>Emergent Ventures</a
+					>,
+					<a
+						class="underline"
+						target="_blank"
+						rel="noopener noreferrer"
+						href="https://1517fund.com/">1517 Fund</a
+					>, and
+					<a
+						class="underline"
+						target="_blank"
+						rel="noopener noreferrer"
+						href="https://mercatus.org/emergent-ventures">Emergent Ventures</a
 					>, as well as an investment from
-					<a class="underline" href="https://gradcapital.in">GradCapital</a>. We hope to be
-					expanding this list really soon!
+					<a
+						class="underline"
+						target="_blank"
+						rel="noopener noreferrer"
+						href="https://gradcapital.in">GradCapital</a
+					>. We hope to be expanding this list really soon!
 				</p>
 			</div>
 		</div>

@@ -21,9 +21,7 @@
 			>
 				We aren’t just another Drone Delivery
 			</h1>
-			<p
-				class="body-form font-body text-sm sm:text-base font-normal lg:text-lg text-center mx-auto"
-			>
+			<p class="body-form font-body text-sm md:text-base font-normal text-center mx-auto">
 				Current drone delivery models are slow, expensive, and limited in terms of coverage. By
 				decentralising drone deliveries we are changing it all! Join the waitlist to be a part of
 				the future of easy & seamless deliveries!

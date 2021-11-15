@@ -5,12 +5,12 @@
 <main class="accordion">
 	<div class="accordion-item">
 		<div
-			class="accordion-item-header text-base sm:text-xl md:text-2xl lg:text-3xl font-semibold"
+			class="accordion-item-header text-base sm:text-xl md:text-2xl tracking-wider font-semibold"
 			on:click={() => {
 				$accordion_1_open = !$accordion_1_open;
 			}}
 		>
-			What makes Airbound different?
+			What makes us different?
 			<img
 				class={`accordion-item-header_arrow_up ${$accordion_1_open ? 'hidden' : ''} `}
 				src="/faqs/arrow_up.svg"

@@ -53,7 +53,7 @@ const config = {
 		extend: {
 			fontFamily: {
 				heading: ['ClashDisplay'],
-				body: ['Inter']
+				body: ['Raleway']
 			}
 		}
 	},

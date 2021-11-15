@@ -10,7 +10,7 @@
 	<div class="banner">
 		<div class="max-w-1260 text-white-100 mx-auto px-6 pb-20 pt-36">
 			<div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12">
-				<div class="text-max-560 mx-auto col-span-4 lg:col-span-6 md:mt-12">
+				<div class="font-body text-max-560 mx-auto col-span-4 lg:col-span-6 md:mt-12">
 					<h1 class="text-4xl font-heading font-semibold">About Us</h1>
 					<p class="col-span-4 lg:col-span-6 lg:mx-auto my-5 md:mt-5">
 						With a combination of mobile technology, autonomous drones and our strong network of
@@ -104,6 +104,13 @@
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Ninad Atale</h1>
 					<p class="font-heading font-medium tracking-wider mt-4">Engineering Intern</p>
 				</div>
+				<div
+					class="person-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
+				>
+					<img class="rounded-full mb-6 pointer-events-none" src="/about/ayush.png" alt="" />
+					<h1 class="font-heading text-green-500 font-semibold text-xl">Ayush Gupta</h1>
+					<p class="font-heading font-medium tracking-wider mt-4">Engineering Intern</p>
+				</div>
 			</div>
 			<img
 				style="margin-right: -370px; z-index: -20;"
@@ -131,30 +138,42 @@
 			<div
 				class="my-16 col-span-4 md:col-span-8 lg:col-span-12 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
 			>
-				<div
+				<a
+					target="_blank"
+					rel="noopener noreferrer"
+					href="https://1517fund.com/"
 					class="investor-card py-14 px-10 mx-auto col-span-4 lg:grid-span-6 flex my-10 flex-col justify-center items-center"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/1517.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">1517 Fund</h1>
-				</div>
-				<div
+				</a>
+				<a
+					target="_blank"
+					rel="noopener noreferrer"
+					href="https://helpfulengineering.org/"
 					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/helpful.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Helpful Engineering</h1>
-				</div>
-				<div
+				</a>
+				<a
+					target="_blank"
+					rel="noopener noreferrer"
+					href="https://mercatus.org/emergent-ventures"
 					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/ev.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Emergent Ventures</h1>
-				</div>
-				<div
+				</a>
+				<a
+					target="_blank"
+					rel="noopener noreferrer"
+					href="https://gradcapital.in"
 					class="investor-card py-14 px-10 mx-auto col-span-4  flex my-10 flex-col justify-center items-center"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/gc.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Grad Capital</h1>
-				</div>
+				</a>
 			</div>
 			<img
 				style="margin-right: -370px; z-index: -20;"

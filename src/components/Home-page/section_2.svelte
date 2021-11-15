@@ -21,7 +21,7 @@
 					Get local orders delivered in less <span class="text-green-500">than 5 minutes</span>
 				</h1>
 				<p
-					class="text-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl text-center md:text-left"
+					class="font-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl text-center md:text-left"
 				>
 					Get your essential orders delivered to you in less than 5 minutes using our fast delivery
 					service, so that you aren’t kept waited for long.
@@ -49,7 +49,7 @@
 					<span class="text-green-500">From your</span> local pharmacies to coffee shops
 				</h1>
 				<p
-					class="text-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl text-center md:text-left"
+					class="font-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl text-center md:text-left"
 				>
 					We deliver from a vast variety of locations, so it’s most likely that your selected pickup
 					place is already listed by us.

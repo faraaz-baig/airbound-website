@@ -20,9 +20,9 @@
 	</div>
 	<div class="bg-blue-800">
 		<div
-			class="max-w-1260 text-white-100 mx-auto px-6 md:px-8 lg:px-10 py-20 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
+			class="max-w-1260 font-body text-white-100 mx-auto px-6 md:px-8 lg:px-10 py-20 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
 		>
-			<div class="text-base sm:text-lg lg:text-xl col-span-4 md:col-span-8 lg:col-span-12">
+			<div class="text-base sm:text-lg col-span-4 md:col-span-8 lg:col-span-12 mb-10">
 				We are building a drone system that does not require any infrastructure, allowing us to
 				implement this in remote areas, bringing down delivery times from hours to minutes. Drone
 				delivery is something that has been worked on for a long time, but governments have only
