@@ -34,10 +34,10 @@
 					class="mt-10 mb-5 bg-white-100 bg-opacity-20 w-full rounded-lg lg:mb-6 lg:pt-1 font-heading flex relative"
 				>
 					<input
+						class="p-4 bg-transparent z-0 text-sm md:text-base placeholder-white-100 placeholder-opacity-50"
 						bind:value={email}
 						required="true"
 						placeholder="Enter Your Email"
-						class="p-4 bg-transparent z-0 text-sm md:text-base placeholder-white-100 placeholder-opacity-50"
 						type="email"
 					/>
 					<button
