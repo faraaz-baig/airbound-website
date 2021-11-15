@@ -34,7 +34,7 @@
 					bind:value={email}
 					placeholder="Enter Your Email"
 					required="true"
-					class="p-4 bg-transparent z-0 text-sm md:text-base placeholder-white"
+					class="p-4 bg-transparent z-0 text-sm md:text-base placeholder-white-100 placeholder-opacity-50"
 					type="email"
 				/>
 				<button
