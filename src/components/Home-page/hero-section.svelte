@@ -76,6 +76,9 @@
 </div>
 
 <style>
+	input::placeholder {
+		color: #ffffff !important;
+	}
 	.laptop_image {
 		display: none;
 	}
