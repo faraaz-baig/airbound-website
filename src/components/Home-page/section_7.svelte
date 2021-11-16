@@ -57,6 +57,11 @@
 </div>
 
 <style>
+	*::placeholder {
+		color: #ffffff !important;
+		opacity: 0.9;
+		font-size: 16px;
+	}
 	.form-div {
 		min-width: 100px;
 		max-width: 370px;

@@ -76,8 +76,10 @@
 </div>
 
 <style>
-	input::placeholder {
+	*::placeholder {
 		color: #ffffff !important;
+		opacity: 0.9;
+		font-size: 16px;
 	}
 	.laptop_image {
 		display: none;
