@@ -31,12 +31,12 @@
 				</p>
 				<form
 					on:submit|preventDefault={() => (submit = true)}
-					class="mt-10 mb-5 bg-white-100 bg-opacity-20 w-full rounded-lg lg:mb-6 lg:pt-1 font-heading flex relative"
+					class="mt-10 mb-5 bg-white-100 bg-opacity-20 w-full rounded-lg lg:mb-6 lg:pt-1 font-heading flex relative placeholder-white-200 placeholder-opacity-50"
 				>
 					<input
+						placeholder="Enter Your Email"
 						class="p-4 bg-transparent text-sm md:text-base placeholder-white-200 placeholder-opacity-50"
 						bind:value={email}
-						placeholder="Enter Your Email"
 						type="email"
 						required="true"
 					/>
@@ -77,6 +77,11 @@
 
 <style>
 	*::placeholder {
+		color: #ffffff !important;
+		opacity: 0.9;
+		font-size: 16px;
+	}
+	*::-webkit-input-placeholder {
 		color: #ffffff !important;
 		opacity: 0.9;
 		font-size: 16px;

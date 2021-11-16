@@ -77,5 +77,3 @@ typings/
 
 # sveltekit build output
 .svelte-kit/
-
-package-lock.json
