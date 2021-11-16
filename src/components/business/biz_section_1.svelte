@@ -1,3 +1,7 @@
+<script>
+	import TypedJs from '@loscrackitos/svelte-typed-js';
+</script>
+
 <div
 	class="
     text-white-100
@@ -7,17 +11,23 @@
 	<div>
 		<div class="max-w-1260 mx-auto grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 px-10 md:pt-32">
 			<div
-				class=" text-container mb-14 mt-36 md:mt-28 xl:mt-40 col-span-4 md:col-span-4 lg:col-span-6 mx-auto text-center md:text-left"
+				class=" text-container mb-14 mt-36 md:mt-28 xl:mt-40 col-span-4 md:col-span-4 lg:col-span-6 mx-auto text-left md:text-left"
 			>
-				<h1
-					class="font-heading text-3xl sm:text-4xl md:text-3xl lg:text-4xl xl:text-5xl font-semibold"
+				<TypedJs
+					strings={['Medicines', 'Essentials', 'Pharmaceuticals', 'Groceries']}
+					typeSpeed={100}
+					backSpeed={50}
+					loop={true}
 				>
-					Deliver
-					<span class="text-green-500">Medicines</span> through the air
-				</h1>
+					<h1
+						class="font-heading text-4xl sm:text-4xl md:text-3xl lg:text-4xl xl:text-5xl font-semibold"
+					>
+						Deliver
+						<span class="text-green-500 typing" /> <br /> Better
+					</h1>
+				</TypedJs>
 				<p class="font-body lg:text-lg mt-8">
-					Deliver medicines to your customers with the help of our efficient and blazing fast drone
-					delivery service.
+					Faster, cheaper, and more accessible than anything else. What are you waiting for?
 				</p>
 			</div>
 			<img

@@ -7,14 +7,14 @@
 				<img src="/Home-page/section_6/ppl.png" alt="" />
 			</div>
 			<div
-				class="p-7 md:col-span-4 lg:col-span-6 text-white-100 w-11/12 md:w-full lg:ml-2 text-center md:text-left md:flex md:flex-col md:justify-around mx-auto"
+				class="p-7 md:col-span-4 lg:col-span-6 text-white-100 w-11/12 md:w-full lg:ml-2 text-center md:text-left md:flex md:flex-col mx-auto mt-8"
 			>
 				<h1 class="font-heading text-3xl sm:text-4xl md:text-4xl font-semibold">
-					<span class="text-green-500">Empowering</span> Small & Big Businesses
+					<span class="text-green-500">Empowering</span> Small Businesses & Communities
 				</h1>
-				<p class="font-body mt-4 sm:text-sm md:text-base">
-					We not only help our customers by delivering their orders, but we also empower and support
-					small and big businesses!
+				<p class="font-body mt-8 mb-10 sm:text-sm md:text-base">
+					We know how difficult it is to run a small business, especially with the pandemic. Let us
+					help you out.
 				</p>
 				<a href="/businesses">
 					<button

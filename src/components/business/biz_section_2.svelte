@@ -12,7 +12,8 @@
 					class="font-heading text-3xl
 					sm:text-5xl md:text-4xl lg:text-5xl md:text-left text-white-100 font-semibold text-center"
 				>
-					<span class="text-green-500">Hi-Speed deliveries</span> without the hassles of traffic blocks
+					No more
+					<span class="text-green-500">Red Lights</span>
 				</h1>
 				<p
 					class="font-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl  text-center md:text-left"
@@ -34,13 +35,14 @@
 					class="font-heading text-3xl
 					sm:text-5xl md:text-4xl lg:text-5xl md:text-left text-white-100 font-semibold text-center"
 				>
-					<span class="text-green-500">No to warehouse</span> Yes to complete autonomyl!
+					<span class="text-green-500">No black boxes</span> You’re in charge
 				</h1>
 				<p
 					class="font-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl text-center md:text-left"
 				>
-					Tired of the Warehouse System? So are we! We don’t use Warehouses for our drones giving
-					you complete autonmous rights over them.
+					We’re not asking you to let us deliver your goods. We’re empowering you to perform
+					deliveries yourself. From recieving an order to providing the takeoff command, you’re in
+					control of everything.
 				</p>
 			</div>
 		</div>

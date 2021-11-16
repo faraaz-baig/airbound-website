@@ -19,12 +19,12 @@
 			<h1
 				class="font-heading text-xl sm:text-2xl md:text-3xl lg:text-4xl my-6 font-semibold lg:mt-16 mx-auto w-72 sm:w-80 md:w-96 w-100 text-center tracking-wider"
 			>
-				We aren’t just another Drone Delivery
+				We aren’t just another <span class="text-green-500">Drone Delivery</span> Startup
 			</h1>
 			<p class="body-form font-body text-sm md:text-base font-normal text-center mx-auto">
-				Current drone delivery models are slow, expensive, and limited in terms of coverage. By
-				decentralising drone deliveries we are changing it all! Join the waitlist to be a part of
-				the future of easy & seamless deliveries!
+				Current delivery models are slow, expensive, and limited in terms of coverage. We’re fixing
+				all of that. Partner with us by dropping in your email below. We’ll get back to you as soon
+				as we can!
 			</p>
 			<form
 				on:submit|preventDefault={() => (submit = true)}
@@ -126,6 +126,16 @@
 			max-width: 600px;
 			margin-right: auto;
 			margin-left: auto;
+		}
+		*::placeholder {
+			color: #ffffff !important;
+			opacity: 0.5;
+			font-size: 16px;
+		}
+		*::-webkit-input-placeholder {
+			color: #ffffff !important;
+			opacity: 0.5;
+			font-size: 16px;
 		}
 	}
 	/* laptop Styles */

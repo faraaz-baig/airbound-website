@@ -82,22 +82,12 @@
 						<li>Adhere to style standards on fonts, colours, and images</li>
 					</ul>
 
-					<h1 class="font-heading text-lg lg:text-xl font-semibold my-4">Who can apply</h1>
-
-					Only those candidates can apply who:
-					<ul>
-						<li>can start the internship between 30th Nov'21 and 1st Jan'22</li>
-						<li>are available for duration of 3 months</li>
-						<li>have relevant skills and interests</li>
-					</ul>
-
 					<h1 class="font-heading text-lg lg:text-xl font-semibold my-4">Other requirements</h1>
 					<ul>
-						<li>Must have a portfolio of design projects</li>
-						<li>Must have knowledge of wireframe tools (e.g. Wireframe.cc and InVision)</li>
+						<li>A portfolio of design projects</li>
+						<li>Knowledge of wireframe tools (e.g. Wireframe.cc and InVision)</li>
 						<li>
-							Must have up-to-date knowledge of design software like Adobe Illustrator, Figma and
-							Photoshop
+							Up-to-date knowledge of design software like Adobe Illustrator, Figma and Photoshop
 						</li>
 					</ul>
 					<h1 class="font-heading text-lg lg:text-xl font-semibold my-4">Perks</h1>

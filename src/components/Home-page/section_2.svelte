@@ -17,8 +17,8 @@
 				<p
 					class="font-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl text-center md:text-left"
 				>
-					Get your essential orders delivered to you in less than 5 minutes using our fast delivery
-					service, so that you aren’t kept waited for long.
+					We’ve simplified the delivery process from the ground up, so that you don’t have to wait
+					for your package.
 				</p>
 			</div>
 		</div>
@@ -39,8 +39,8 @@
 				<p
 					class="font-body font-normal text-white-100 mt-4 sm:text-xl md:text-lg lg:text-xl text-center md:text-left"
 				>
-					We deliver from a vast variety of locations, so it’s most likely that your selected pickup
-					place is already listed by us.
+					We partner with local businesses, so that you can get your favorite coffee just the way
+					your local barista makes it.
 				</p>
 			</div>
 		</div>

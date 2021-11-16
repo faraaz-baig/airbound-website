@@ -34,7 +34,7 @@
 				<img src="/Home-page/section_4/step3.png" alt="" />
 				<div class="timeline__text text-white-100">
 					<h1 class="text-green-500 font-medium text-sm tracking-widest">STEP 3</h1>
-					<h2 class="font-medium">Order Deliverd! Now wave a ‘ta-ta’ to the drone</h2>
+					<h2 class="font-medium">Order Deliverd! Blink and you’ll miss it</h2>
 				</div>
 			</div>
 		</div>
@@ -68,7 +68,7 @@
 			</div>
 			<div class="laptop_timeline__text text-white-100">
 				<h1 class="text-green-500 text-sm font-medium tracking-widest">STEP 3</h1>
-				<h2 class="font-medium">Order Deliverd! Now wave a ‘ta-ta’ to the drone</h2>
+				<h2 class="font-medium">Order Deliverd! Blink and you’ll miss it</h2>
 			</div>
 		</div>
 	</div>

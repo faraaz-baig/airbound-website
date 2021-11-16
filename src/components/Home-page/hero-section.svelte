@@ -1,4 +1,5 @@
 <script>
+	import TypedJs from '@loscrackitos/svelte-typed-js';
 	import supabase from '$lib/db';
 	let email;
 	let submit = false;
@@ -20,14 +21,21 @@
 	<div class="buildings relative ">
 		<div class="max-w-1260 mx-auto grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12">
 			<div
-				class=" text-container pt-10 pb-96 px-4 mt-36 md:mt-40 xl:52 col-span-4 md:col-span-8 lg:col-span-12 mx-auto text-center"
+				class="text-container pt-10 pb-96 px-4 mt-36 md:mt-40 xl:52 col-span-4 md:col-span-8 lg:col-span-12 mx-auto text-center"
 			>
-				<h1 class="font-heading text-2xl sm:text-4xl xl:text-5xl font-semibold">
-					<span class="text-green-500">Hi-Speed</span> Air Deliveries when you need ‘em
-				</h1>
-				<p class="font-body lg:text-lg mt-8">
-					We use drones to deliver your orders right at your doorstop, using it’s decentralized
-					autonomous aircraft delivery service
+				<TypedJs
+					strings={['Simple', 'Accessible', 'Faster']}
+					typeSpeed={100}
+					backSpeed={50}
+					loop={true}
+				>
+					<h1 class="font-heading text-4xl sm:text-5xl xl:text-6xl font-semibold">
+						Delivery Made <br /> <span class="text-green-500 typing" />
+					</h1>
+				</TypedJs>
+				<p class="font-body font-medium lg:text-lg mt-8">
+					Rapid air-based delivery to get you what you need, when you need it, no matter where you
+					are. Its that simple.
 				</p>
 				<form
 					on:submit|preventDefault={() => (submit = true)}
@@ -108,7 +116,7 @@
 		top: 0.45rem;
 	}
 	.text-container {
-		max-width: 350px;
+		max-width: 330px;
 	}
 	.hero-img {
 		background-image: linear-gradient(357.94deg, #4b72ff 39.48%, #3860ef 127.04%);
@@ -126,7 +134,7 @@
 			max-width: 450px;
 		}
 		.text-container {
-			max-width: 500px;
+			max-width: 480px;
 		}
 		form {
 			width: 80%;
@@ -138,6 +146,9 @@
 	/* Tablet Styles */
 
 	@media (min-width: 768px) {
+		.text-container {
+			max-width: 500px;
+		}
 		.moblie_image {
 			min-width: 350px;
 			max-width: 470px;
@@ -150,13 +161,23 @@
 			margin-left: auto;
 			margin-right: auto;
 		}
+		*::placeholder {
+			color: #ffffff !important;
+			opacity: 0.5;
+			font-size: 16px;
+		}
+		*::-webkit-input-placeholder {
+			color: #ffffff !important;
+			opacity: 0.5;
+			font-size: 16px;
+		}
 	}
 
 	/* laptop Styles */
 
 	@media (min-width: 1024px) {
 		.text-container {
-			max-width: 600px;
+			max-width: 530px;
 		}
 		.laptop_image {
 			display: block;
@@ -178,7 +199,7 @@
 
 	@media (min-width: 1280px) {
 		.text-container {
-			max-width: 650px;
+			max-width: 600px;
 		}
 		.laptop_image {
 			display: block;

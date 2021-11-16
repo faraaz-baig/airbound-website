@@ -26,12 +26,17 @@
 				We are building a drone system that does not require any infrastructure, allowing us to
 				implement this in remote areas, bringing down delivery times from hours to minutes. Drone
 				delivery is something that has been worked on for a long time, but governments have only
-				recently allowed drone systems to operate commercially. What sets us apart is that we're
-				building a service for those who are not large enough to do business with the giants in the
-				space. Instead of building warehouses and large centers, we're focused on only bringing what
-				is necessary - the drone itself, so that anyone can use delivery, even those in the most
-				remote areas. Created by Passionate teenagers, Airbound is disrupting last minute delivery
-				in urban and rural areas. Our Drones is designed to be the fastest and safest system ever.
+				recently allowed drone systems to operate commercially.
+			</div>
+			<div class="text-base sm:text-lg col-span-4 md:col-span-8 lg:col-span-12 mb-10">
+				What sets us apart is that we're building a service for those who are not large enough to do
+				business with the giants in the space. Instead of building warehouses and large centers,
+				we're focused on only bringing what is necessary - the drone itself, so that anyone can use
+				delivery, even those in the most remote areas.
+			</div>
+			<div class="text-base sm:text-lg col-span-4 md:col-span-8 lg:col-span-12 mb-10">
+				Created by Passionate teenagers, Airbound is disrupting last minute delivery in urban and
+				rural areas. Our Drones is designed to be the fastest and safest system ever.
 			</div>
 			<div class="col-span-4 md:col-span-8 lg:col-span-12">
 				<Accordion_1 />

@@ -15,13 +15,13 @@
 				>
 					<h1 class="text-4xl font-heading font-semibold">About Us</h1>
 					<p class="col-span-4 lg:col-span-6 lg:mx-auto my-5 md:mt-5">
-						With a combination of mobile technology, autonomous drones and our strong network of
-						local businesses, hospitals, logistics businesses and restaurants, we make local
-						delivery faster, safe and more affordable.
+						Currently, all forms of delivery require infrastructure, from roads to drivers, and
+						every drone delivery company operates on a warehouse model. We're changing that.
 					</p>
 					<p class="col-span-4 lg:col-span-6 lg:mx-auto my-5">
-						Created by passionate teenagers, Airbound is disrupting last minute delivery in urban
-						and rural areas. Our Drones is designed to be the fastest and safest system ever.
+						Created by passionate young founders, we’re looking to disrupt the drone delivery
+						industry by building the world’s first blended wing body tailsitter, allowing us to
+						leverage small businesses for takeoff/landing and scale faster than anyone else
 					</p>
 					<div class="hidden md:block lg:col-span-6 lg:mx-auto text-xl mt-10">
 						<a

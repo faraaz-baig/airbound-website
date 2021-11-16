@@ -10,9 +10,7 @@
 					src="business/section_3/fast_deliveries.svg"
 					alt=""
 				/>
-				<p
-					class="text-sm lg:text-base mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center"
-				>
+				<p class="text-sm mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center">
 					Faster Deliveries
 				</p>
 			</div>
@@ -22,17 +20,13 @@
 					src="business/section_3/complete_control.svg"
 					alt=""
 				/>
-				<p
-					class="text-sm lg:text-base mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center"
-				>
+				<p class="text-sm mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center">
 					Complete Control
 				</p>
 			</div>
 			<div class="col-span-2 md:my-0 lg:col-span-3 my-10">
 				<img class="mx-auto w-32 md:w-36 lg:w-40" src="business/section_3/analytics.svg" alt="" />
-				<p
-					class="text-sm lg:text-base mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center"
-				>
+				<p class="text-sm mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center">
 					Track Analytics and Growth
 				</p>
 			</div>
@@ -42,9 +36,7 @@
 					src="business/section_3/no_direct_cost.svg"
 					alt=""
 				/>
-				<p
-					class="text-sm lg:text-base mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center"
-				>
+				<p class="text-sm mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center">
 					No Direct Costs for you
 				</p>
 			</div>
@@ -52,17 +44,13 @@
 				class="col-span-2 md:my-0 md:justify-self-end md:col-span-3 lg:col-span-4 my-10  md:mr-6 lg:mr-0"
 			>
 				<img class="mx-auto w-32 md:w-36 lg:w-40" src="business/section_3/pro_privacy.svg" alt="" />
-				<p
-					class="text-sm lg:text-base mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center"
-				>
+				<p class="text-sm mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center">
 					Pro Privacy & Transparency
 				</p>
 			</div>
 			<div class="col-span-2 md:my-0 lg:col-span-4 my-10">
 				<img class="mx-auto w-32 md:w-36 lg:w-40" src="business/section_3/wide_range.svg" alt="" />
-				<p
-					class="text-sm lg:text-base mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center"
-				>
+				<p class="text-sm mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center">
 					Wide Range of Network
 				</p>
 			</div>
@@ -70,9 +58,7 @@
 				class="col-span-4 md:my-0 md:justify-self-start md:col-span-3 lg:col-span-4 my-10 md:ml-6 lg:ml-0"
 			>
 				<img class="mx-auto w-32 md:w-36 lg:w-40" src="business/section_3/easy_setup.svg" alt="" />
-				<p
-					class="text-sm lg:text-base mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center"
-				>
+				<p class="text-sm mx-auto w-24 lg:w-32 text-white-100 font-semibold mt-4 text-center">
 					Easy to setup & use
 				</p>
 			</div>
