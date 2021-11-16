@@ -59,13 +59,13 @@
 <style>
 	*::placeholder {
 		color: #ffffff !important;
-		opacity: 0.9;
-		font-size: 16px;
+		opacity: 0.5;
+		font-size: 14px;
 	}
 	*::-webkit-input-placeholder {
 		color: #ffffff !important;
-		opacity: 0.9;
-		font-size: 16px;
+		opacity: 0.5;
+		font-size: 14px;
 	}
 	.form-div {
 		min-width: 100px;
