@@ -36,7 +36,7 @@
 
 <SvelteSeo
 	twitter={{
-		site: '@airbound_co',
+		site: 'https://twitter.com/airbound_co',
 		title: 'Airbound | Delivery made Simple',
 		description:
 			'Airbound is a convenient service that allows you to shop in your city and support local business and get your order delivered via our drone.',
