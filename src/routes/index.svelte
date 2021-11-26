@@ -7,11 +7,46 @@
 	import Section_6 from '../components/Home-page/section_6.svelte';
 	import Section_7 from '../components/Home-page/section_7.svelte';
 	import { onMount } from 'svelte';
+	import SvelteSeo from 'svelte-seo';
 
 	onMount(() => {
 		window.scrollTo(0, 0);
 	});
 </script>
+
+<SvelteSeo
+	title="Airbound | Delivery made Simple"
+	description="Airbound is a convenient service that allows you to shop in your city and support local business and get your order delivered via our drone."
+/>
+
+<SvelteSeo
+	openGraph={{
+		title: 'Airbound | Delivery made Simple',
+		description:
+			'Airbound is a convenient service that allows you to shop in your city and support local business and get your order delivered via our drone.',
+		url: 'https://airbound.co/',
+		type: 'website',
+		images: [
+			{
+				url: 'https://airbound.co/banner_image.png',
+				width: 1200,
+				height: 630,
+				alt: 'Og Image Alt'
+			}
+		]
+	}}
+/>
+
+<SvelteSeo
+	twitter={{
+		site: '@airbound_co',
+		title: 'Airbound | Delivery made Simple',
+		description:
+			'Airbound is a convenient service that allows you to shop in your city and support local business and get your order delivered via our drone.',
+		image: 'https://airbound.co/banner_image.png',
+		imageAlt: 'Airbound Delivery Simplified Image'
+	}}
+/>
 
 <main>
 	<!-- hero section -->
