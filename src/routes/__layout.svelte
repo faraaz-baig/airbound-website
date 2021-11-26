@@ -27,15 +27,17 @@
 	<meta name="language" content="English" />
 	<meta name="revisit-after" content="4 days" />
 	<meta name="author" content="Airbound " />
-	<meta property="og:title" content="Airbound " />
-	<meta property="og:site_name" content="Airbound" />
+	<meta name="title" property="og:title" content="Airbound | Delivery made simple" />
 	<meta property="og:url" content="https://airbound.co" />
 	<meta
+		name="description"
 		property="og:description"
 		content="Airbound is a convenient service that allows you to shop in your city and support local business and get your order delivered via our drone."
 	/>
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="https://airbound.co/banner_image.png" />
+	<meta name="image" property="og:image" content="https://airbound.co/banner_image.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Airbound" />
 	<meta
