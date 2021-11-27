@@ -6,7 +6,7 @@
 		<h1
 			class="section_5_heading font-heading font-semibold text-2xl sm:text-3xl md:text-4xl text-white-100 text-center mx-auto mt-10 lg:mt-0 lg:pt-10"
 		>
-			We’re not just faster, <span class="text-green-500"> we’re bettery</span>
+			We’re not just faster, <span class="text-green-500"> we’re better</span>
 		</h1>
 		<div class="mt-16 laptop-hidden">
 			<img
