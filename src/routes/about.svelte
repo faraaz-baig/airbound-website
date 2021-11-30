@@ -113,6 +113,13 @@
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Ayush Gupta</h1>
 					<p class="font-heading font-medium tracking-wider mt-4">Engineering Intern</p>
 				</div>
+				<div
+					class="person-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
+				>
+					<img class="rounded-full mb-6 pointer-events-none" src="/about/nimay.png" alt="" />
+					<h1 class="font-heading text-green-500 font-semibold text-xl">Nimaye Garodia</h1>
+					<p class="font-heading font-medium tracking-wider mt-4">Engineering Intern</p>
+				</div>
 			</div>
 			<img
 				style="margin-right: -370px; z-index: -20;"
