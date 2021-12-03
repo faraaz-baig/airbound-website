@@ -4,9 +4,10 @@
 	let email;
 	let submit = false;
 	async function sendData() {
+		let formated_email = email.toLowerCase();
 		const { error } = await supabase
 			.from('email_entries')
-			.insert([{ email: email }], { returning: 'minimal' });
+			.insert([{ email: formated_email }], { returning: 'minimal' });
 		if (error) throw new Error(console.log(error.message));
 		return;
 	}
