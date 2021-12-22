@@ -8,16 +8,16 @@
 <main>
 	<div class="banner">
 		<div
-			class="max-w-1260 text-white-100 mx-auto px-6 pb-20 pt-36 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
+			class="grid grid-cols-4 px-6 pb-20 mx-auto max-w-1260 text-white-100 pt-36 md:grid-cols-8 lg:grid-cols-12"
 		>
-			<h1 class="text-4xl font-heading font-semibold col-span-3 w-80">Contact Us</h1>
+			<h1 class="col-span-3 text-4xl font-semibold font-heading w-80">Contact Us</h1>
 		</div>
 	</div>
 	<div class="bg-blue-700 full-on-ipad">
 		<div
-			class="max-w-1260 font-body text-white-100 mx-auto px-6 py-20 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 text-base sm:text-lg"
+			class="grid grid-cols-4 px-6 py-20 mx-auto text-base max-w-1260 font-body text-white-100 md:grid-cols-8 lg:grid-cols-12 sm:text-lg"
 		>
-			<div class="col-span-4 md:col-span-8 lg:col-span-12 text-base sm:text-lg">
+			<div class="col-span-4 text-base md:col-span-8 lg:col-span-12 sm:text-lg">
 				Your feedback is important to us. If you have any comments, questions or concerns, please
 				let us know by mailing us at <a href="mailto:info@airbound.co" class="underline"
 					>info@airbound.co</a
@@ -26,8 +26,8 @@
 				on what Airbound is up to, sign up for our waitlist <a href="/" class="underline">here</a>.
 			</div>
 
-			<div class="my-10 col-span-4 md:col-span-8 lg:col-span-12 text-base sm:text-lg">
-				<h1 class="font-heading text-green-500 font-semibold text-xl">Media Enquires</h1>
+			<div class="col-span-4 my-10 text-base md:col-span-8 lg:col-span-12 sm:text-lg">
+				<h1 class="text-xl font-semibold text-green-500 font-heading">Media Enquires</h1>
 				<p>
 					For all media enquires, please contact <a
 						class="underline"
@@ -35,8 +35,8 @@
 					>
 				</p>
 			</div>
-			<div class="my-10 col-span-4 md:col-span-8 lg:col-span-12 text-base sm:text-lg">
-				<h1 class="font-heading text-green-500 font-semibold text-xl">Business Patnerships</h1>
+			<div class="col-span-4 my-10 text-base md:col-span-8 lg:col-span-12 sm:text-lg">
+				<h1 class="text-xl font-semibold text-green-500 font-heading">Business Patnerships</h1>
 				<p>
 					For all Business partnerships/collaborations, please contact <a
 						href="mailto:biz@airbound.co"
@@ -57,11 +57,6 @@
 		background-position-x: 7rem;
 		background-position-y: 0rem;
 		background-blend-mode: overlay;
-	}
-
-	/* Small Tablet Styles */
-
-	@media (min-width: 640px) {
 	}
 
 	/* Tablet Styles */

@@ -11,22 +11,22 @@
 <main>
 	<div class="banner">
 		<div
-			class="max-w-1260 text-white-100 mx-auto px-6 pb-20 pt-36 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
+			class="grid grid-cols-4 px-6 pb-20 mx-auto max-w-1260 text-white-100 pt-36 md:grid-cols-8 lg:grid-cols-12"
 		>
-			<h1 class="text-4xl font-heading font-semibold col-span-3 w-80">Careers</h1>
+			<h1 class="col-span-3 text-4xl font-semibold font-heading w-80">Careers</h1>
 		</div>
 	</div>
 	<div class="bg-blue-700 full-on-ipad">
 		<div
-			class="max-w-1260 font-body text-white-100 mx-auto px-6 py-20 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 text-base sm:text-lg"
+			class="grid grid-cols-4 px-6 py-20 mx-auto text-base max-w-1260 font-body text-white-100 md:grid-cols-8 lg:grid-cols-12 sm:text-lg"
 		>
-			<div class="col-span-4 md:col-span-8 lg:col-span-12 text-base sm:text-lg">
+			<div class="col-span-4 text-base md:col-span-8 lg:col-span-12 sm:text-lg">
 				Airbound is a group of young individuals that share a passion to innovate within the
 				logistics industry to dramatically improve drone delivery and drone infrastructure
 				worldwide. We're looking for top talent ready to get their hands dirty to make a meaningful
 				impact that will last for generations to come.
 			</div>
-			<div class="col-span-4 md:col-span-8 lg:col-span-12 mt-16">
+			<div class="col-span-4 mt-16 md:col-span-8 lg:col-span-12">
 				<div class="grid-cols-4 md:grid-cols-8 lg:grid-cols-12" />
 				<div
 					class={`job-container py-5 md:py-10 md:flex rounded-t-lg md:flex-row md:items-center md:justify-between ${
@@ -34,18 +34,18 @@
 					}`}
 				>
 					<div class="px-6 md:px-14">
-						<h1 class="font-heading tracking-wider font-semibold text-green-500 text-2xl">
+						<h1 class="text-2xl font-semibold tracking-wider text-green-500 font-heading">
 							UI/UX Intern
 						</h1>
-						<div class="job-description font-body mt-1 tracking-wide text-base">
+						<div class="mt-1 text-base tracking-wide job-description font-body">
 							Remote <span class="mx-1">|</span> <span>Part Time</span>
 						</div>
 					</div>
 					<div
-						class=" px-6 md:px-14 mt-6 md:mt-0 flex flex-row justify-between items-center text-base"
+						class="flex flex-row items-center justify-between px-6 mt-6 text-base md:px-14 md:mt-0"
 					>
 						<a href="mailto:careers@airbound.co"
-							><button class="apply-btn py-2 px-7 md:px-9 rounded-lg md:mr-6">Apply</button></a
+							><button class="py-2 rounded-lg apply-btn px-7 md:px-9 md:mr-6">Apply</button></a
 						>
 						<button
 							class="p-2"
@@ -60,7 +60,7 @@
 				<div
 					class={`job_desc px-8 md:px-20 pt-2 pb-14 font-body ${$job_desc_1_open ? 'hidden' : ''}`}
 				>
-					<h1 class="font-heading text-lg lg:text-xl font-semibold my-4">About the internship</h1>
+					<h1 class="my-4 text-lg font-semibold font-heading lg:text-xl">About the internship</h1>
 
 					Selected intern's day-to-day responsibilities include:
 					<ul>
@@ -82,7 +82,7 @@
 						<li>Adhere to style standards on fonts, colours, and images</li>
 					</ul>
 
-					<h1 class="font-heading text-lg lg:text-xl font-semibold my-4">Other requirements</h1>
+					<h1 class="my-4 text-lg font-semibold font-heading lg:text-xl">Other requirements</h1>
 					<ul>
 						<li>A portfolio of design projects</li>
 						<li>Knowledge of wireframe tools (e.g. Wireframe.cc and InVision)</li>
@@ -90,7 +90,7 @@
 							Up-to-date knowledge of design software like Adobe Illustrator, Figma and Photoshop
 						</li>
 					</ul>
-					<h1 class="font-heading text-lg lg:text-xl font-semibold my-4">Perks</h1>
+					<h1 class="my-4 text-lg font-semibold font-heading lg:text-xl">Perks</h1>
 					<ul>
 						<li>Certificate</li>
 						<li>Letter of recommendation</li>
@@ -136,11 +136,6 @@
 		background-position-x: 7rem;
 		background-position-y: 0rem;
 		background-blend-mode: overlay;
-	}
-
-	/* Small Tablet Styles */
-
-	@media (min-width: 640px) {
 	}
 
 	/* Tablet Styles */

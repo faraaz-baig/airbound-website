@@ -1,7 +1,7 @@
 <footer class="bg-blue-900 pb-12 font-heading">
 	<div class="max-w-1260 mx-auto text-white-100">
 		<div class="lg:flex lg:flex-row-reverse lg:justify-evenly lg:pt-8">
-			<div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 grid-div">
+			<div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12 grid-div pt-20 lg:pt-0">
 				<img
 					class="col-span-4 lg:self-end md:col-span-8  lg:col-span-12 mx-auto mb-5 lg:mb-8"
 					src="/footer/footer_logo.svg"
@@ -11,25 +11,25 @@
 					<a
 						target="_blank"
 						rel="noopener noreferrer"
-						class="icon p-2 mx-2"
+						class="bg-blue-800 w-6 h-6 rounded-full p-2 mx-2"
 						href="https://linkedin.com/company/airbound-co"><i class="fab fa-linkedin-in" /></a
 					>
 					<a
 						target="_blank"
 						rel="noopener noreferrer"
-						class="icon p-2 mx-2"
+						class="bg-blue-800 w-6 h-6 rounded-full p-2 mx-2"
 						href="https://instagram.com/airbound.co"><i class="fab fa-instagram" /></a
 					>
 					<a
 						target="_blank"
 						rel="noopener noreferrer"
-						class="icon p-2 mx-2"
+						class="bg-blue-800 w-6 h-6 rounded-full p-2 mx-2"
 						href="https://twitter.com/airbound_co"><i class="fab fa-twitter" /></a
 					>
 					<a
 						target="_blank"
 						rel="noopener noreferrer"
-						class="icon p-2 mx-2"
+						class="bg-blue-800 w-6 h-6 rounded-full p-2 mx-2"
 						href="mailto:finfo@airbound.co"><i class="far fa-envelope" /></a
 					>
 				</div>
@@ -65,21 +65,5 @@
 <style>
 	img {
 		pointer-events: none;
-	}
-	.grid-div {
-		padding-top: 5rem;
-	}
-	.icon {
-		background: #172f63;
-		width: 28px;
-		height: 28px;
-		border-radius: 500px;
-	}
-	/* laptop Styles */
-
-	@media (min-width: 1024px) {
-		.grid-div {
-			padding-top: 0rem;
-		}
 	}
 </style>

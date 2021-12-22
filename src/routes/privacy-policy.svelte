@@ -10,14 +10,14 @@
 <main>
 	<div class="banner">
 		<div
-			class="max-w-1260 text-white-100 mx-auto px-6 pb-20 pt-36 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
+			class="grid grid-cols-4 px-6 pb-20 mx-auto max-w-1260 text-white-100 pt-36 md:grid-cols-8 lg:grid-cols-12"
 		>
-			<h1 class="text-4xl font-heading font-semibold col-span-3 w-80">Privacy & Terms</h1>
+			<h1 class="col-span-3 text-4xl font-semibold font-heading w-80">Privacy & Terms</h1>
 		</div>
 	</div>
 	<div class="bg-blue-700">
 		<div
-			class="max-w-1260 font-body text-white-100 mx-auto px-6 py-20 grid grid-cols-4 md:grid-cols-8 lg:grid-cols-12"
+			class="grid grid-cols-4 px-6 py-20 mx-auto max-w-1260 font-body text-white-100 md:grid-cols-8 lg:grid-cols-12"
 		>
 			<PrivacyContent />
 		</div>
@@ -33,11 +33,6 @@
 		background-position-x: 7rem;
 		background-position-y: 0rem;
 		background-blend-mode: overlay;
-	}
-
-	/* Small Tablet Styles */
-
-	@media (min-width: 640px) {
 	}
 
 	/* Tablet Styles */
