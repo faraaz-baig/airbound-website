@@ -46,7 +46,7 @@
 							target="_blank"
 							rel="noopener noreferrer"
 							class="icon p-2 mx-1"
-							href="mailto:finfo@airbound.co"><i class="far fa-envelope" /></a
+							href="mailto:info@airbound.co"><i class="far fa-envelope" /></a
 						>
 					</div>
 				</div>
