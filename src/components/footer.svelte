@@ -75,6 +75,11 @@
 		height: 28px;
 		border-radius: 500px;
 	}
+
+	.icon:hover {
+		opacity: 0.6;
+	}
+
 	/* laptop Styles */
 
 	@media (min-width: 1024px) {
