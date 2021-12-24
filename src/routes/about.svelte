@@ -151,7 +151,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://1517fund.com/"
-					class="investor-card py-14 px-10 mx-auto col-span-4 lg:grid-span-6 flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4 lg:grid-span-6 flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/1517.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">1517 Fund</h1>
@@ -160,7 +160,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://helpfulengineering.org/"
-					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/helpful.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Helpful Engineering</h1>
@@ -169,7 +169,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://mercatus.org/emergent-ventures"
-					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/EV.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Emergent Ventures</h1>
@@ -178,7 +178,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://gradcapital.in"
-					class="investor-card py-14 px-10 mx-auto col-span-4  flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4  flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/gc.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Grad Capital</h1>
