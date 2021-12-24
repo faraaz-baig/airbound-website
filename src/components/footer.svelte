@@ -37,16 +37,16 @@
 			<div
 				class="grid w-10/12 lg:w-6/12 lg:mx-0 grid-cols-4 md:grid-cols-8 lg:grid-cols-12 my-14 lg:border-r lg:pr-20 mx-auto border-t border-b border-opacity-20 lg:border-t-0 lg:border-b-0 py-6 border-white-300"
 			>
-				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4">
+				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4 hover:opacity-60">
 					<a href="/businesses">For Businesses</a>
 				</div>
-				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4">
+				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4 hover:opacity-60">
 					<a href="/careers">Careers</a>
 				</div>
-				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4">
+				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4 hover:opacity-60">
 					<a href="/faq">FAQs</a>
 				</div>
-				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4">
+				<div class="col-span-2 md:col-span-4 lg:col-span-6 text-center my-4 hover:opacity-60">
 					<a href="/about">About Us</a>
 				</div>
 			</div>
