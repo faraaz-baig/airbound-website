@@ -27,25 +27,25 @@
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="https://linkedin.com/company/airbound-co"><i class="fab fa-linkedin-in" /></a
 						>
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="https://instagram.com/airbound.co"><i class="fab fa-instagram" /></a
 						>
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="https://twitter.com/airbound_co"><i class="fab fa-twitter" /></a
 						>
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="mailto:info@airbound.co"><i class="far fa-envelope" /></a
 						>
 					</div>
