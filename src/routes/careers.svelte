@@ -45,10 +45,12 @@
 						class=" px-6 md:px-14 mt-6 md:mt-0 flex flex-row justify-between items-center text-base"
 					>
 						<a href="mailto:careers@airbound.co"
-							><button class="apply-btn py-2 px-7 md:px-9 rounded-lg md:mr-6">Apply</button></a
+							><button class="apply-btn py-2 px-7 md:px-9 rounded-lg md:mr-6 hover:opacity-60"
+								>Apply</button
+							></a
 						>
 						<button
-							class="p-2"
+							class="p-2 hover:opacity-60"
 							on:click={() => {
 								$job_desc_1_open = !$job_desc_1_open;
 							}}

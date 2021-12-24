@@ -11,27 +11,29 @@
 	}`}
 >
 	<nav class="px-16 pt-14 flex flex-col items-start">
-		<a class="pb-5 mx-auto" href="/businesses">For Businesses</a>
-		<a class="py-5 mx-auto" href="/">Home</a>
-		<a class="py-5 mx-auto" href="/about">About Us</a>
-		<a class="py-5 mx-auto" href="/faq">FAQs</a>
-		<a class="py-5 mx-auto" href="/careers">Careers</a>
-		<a class="py-5 mb-20 md:mb-20 lg:mb-8 xl:mb-16 mx-auto" href="/contact">Contact Us</a>
+		<a class="pb-5 mx-auto hover:opacity-60" href="/businesses">For Businesses</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/">Home</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/about">About Us</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/faq">FAQs</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/careers">Careers</a>
+		<a class="py-5 mb-20 md:mb-20 lg:mb-8 xl:mb-16 mx-auto hover:opacity-60" href="/contact"
+			>Contact Us</a
+		>
 	</nav>
 
 	<div class="mx-auto">
 		<ul class="flex  flex-row mx-auto lg:text-2xl">
-			<li class="mr-10">
+			<li class="mr-10 hover:opacity-60">
 				<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/airbound_co"
 					><i class="fab fa-twitter" /></a
 				>
 			</li>
-			<li class="mr-10">
+			<li class="mr-10 hover:opacity-60">
 				<a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/company/airbound-co"
 					><i class="fab fa-linkedin" /></a
 				>
 			</li>
-			<li>
+			<li class="hover:opacity-60">
 				<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/airbound.co"
 					><i class="fab fa-instagram" /></a
 				>

@@ -18,7 +18,7 @@
 				</p>
 				<a href="/businesses">
 					<button
-						class="bg-blue-800 mt-6 text-xs sm:text-base lg:text-base py-4 px-6 md:px-5 lg:px-7 rounded-lg font-semibold mx-auto md:mx-0 flex flex-row items-center justify-center"
+						class="bg-blue-800 mt-6 text-xs sm:text-base lg:text-base py-4 px-6 md:px-5 lg:px-7 rounded-lg font-semibold mx-auto md:mx-0 flex flex-row items-center justify-center hover:opacity-60"
 						>Explore Airbound for Businesses <i class="fa fa-angle-right ml-2" />
 					</button></a
 				>
