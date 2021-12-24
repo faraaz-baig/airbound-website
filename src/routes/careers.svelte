@@ -48,7 +48,7 @@
 							><button class="apply-btn py-2 px-7 md:px-9 rounded-lg md:mr-6">Apply</button></a
 						>
 						<button
-							class="p-2"
+							class="p-2 hover:opacity-60"
 							on:click={() => {
 								$job_desc_1_open = !$job_desc_1_open;
 							}}
