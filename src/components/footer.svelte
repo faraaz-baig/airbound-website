@@ -56,7 +56,7 @@
 				&copy; Airbound Aerospace
 			</h1>
 			<div class="col-span-4 md:col-span-8 lg:col-span-12 text-center">
-				<a class="text-sm opacity-50" href="/privacy-policy">Privacy & Terms</a>
+				<a class="text-sm opacity-50 hover:opacity-30" href="/privacy-policy">Privacy & Terms</a>
 			</div>
 		</div>
 	</div>
