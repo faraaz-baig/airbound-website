@@ -28,25 +28,25 @@
 				<!-- <h1 class="font-heading text-lg font-medium my-4">1. Infrastructure</h1> -->
 				<p class="text-base sm:text-lg">
 					So far, we’ve raised funding through multiple grants from <a
-						class="underline"
+						class="underline hover:opacity-60"
 						target="_blank"
 						rel="noopener noreferrer"
 						href="https://helpfulengineering.org/">Helpful Engineering</a
 					>,
 					<a
-						class="underline"
+						class="underline hover:opacity-60"
 						target="_blank"
 						rel="noopener noreferrer"
 						href="https://1517fund.com/">1517 Fund</a
 					>, and
 					<a
-						class="underline"
+						class="underline hover:opacity-60"
 						target="_blank"
 						rel="noopener noreferrer"
 						href="https://mercatus.org/emergent-ventures">Emergent Ventures</a
 					>, as well as an investment from
 					<a
-						class="underline"
+						class="underline hover:opacity-60"
 						target="_blank"
 						rel="noopener noreferrer"
 						href="https://gradcapital.in">GradCapital</a
