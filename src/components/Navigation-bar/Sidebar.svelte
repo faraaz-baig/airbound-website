@@ -11,12 +11,14 @@
 	}`}
 >
 	<nav class="px-16 pt-14 flex flex-col items-start">
-		<a class="pb-5 mx-auto" href="/businesses">For Businesses</a>
-		<a class="py-5 mx-auto" href="/">Home</a>
-		<a class="py-5 mx-auto" href="/about">About Us</a>
-		<a class="py-5 mx-auto" href="/faq">FAQs</a>
-		<a class="py-5 mx-auto" href="/careers">Careers</a>
-		<a class="py-5 mb-20 md:mb-20 lg:mb-8 xl:mb-16 mx-auto" href="/contact">Contact Us</a>
+		<a class="pb-5 mx-auto hover:opacity-60" href="/businesses">For Businesses</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/">Home</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/about">About Us</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/faq">FAQs</a>
+		<a class="py-5 mx-auto hover:opacity-60" href="/careers">Careers</a>
+		<a class="py-5 mb-20 md:mb-20 lg:mb-8 xl:mb-16 mx-auto hover:opacity-60" href="/contact"
+			>Contact Us</a
+		>
 	</nav>
 
 	<div class="mx-auto">
