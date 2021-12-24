@@ -23,17 +23,17 @@
 
 	<div class="mx-auto">
 		<ul class="flex  flex-row mx-auto lg:text-2xl">
-			<li class="mr-10">
+			<li class="mr-10 hover:opacity-60">
 				<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/airbound_co"
 					><i class="fab fa-twitter" /></a
 				>
 			</li>
-			<li class="mr-10">
+			<li class="mr-10 hover:opacity-60">
 				<a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/company/airbound-co"
 					><i class="fab fa-linkedin" /></a
 				>
 			</li>
-			<li>
+			<li class="hover:opacity-60">
 				<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/airbound.co"
 					><i class="fab fa-instagram" /></a
 				>
