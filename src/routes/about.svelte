@@ -51,7 +51,7 @@
 					</div>
 				</div>
 				<a
-					class="col-span-4 lg:col-start-8 lg:col-end-13 mx-auto map"
+					class="col-span-4 lg:col-start-8 lg:col-end-13 mx-auto map hover:opacity-60"
 					rel="noopener noreferrer"
 					href="https://goo.gl/maps/1gRqnYyTBbe88Rsx5"
 					target="_blank"><img src="/about/sample_map.png" alt="" /></a
