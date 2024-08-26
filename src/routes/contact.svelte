@@ -19,18 +19,20 @@
 		>
 			<div class="col-span-4 md:col-span-8 lg:col-span-12 text-base sm:text-lg">
 				Your feedback is important to us. If you have any comments, questions or concerns, please
-				let us know by mailing us at <a href="mailto:info@airbound.co" class="underline"
-					>info@airbound.co</a
+				let us know by mailing us at <a
+					href="mailto:info@airbound.co"
+					class="underline hover:opacity-60">info@airbound.co</a
 				>. For job opportunities, please visit our
-				<a href="/careers" class="underline">Careers page</a>. If you'd like us to keep you posted
-				on what Airbound is up to, sign up for our waitlist <a href="/" class="underline">here</a>.
+				<a href="/careers" class="underline hover:opacity-60">Careers page</a>. If you'd like us to
+				keep you posted on what Airbound is up to, sign up for our waitlist
+				<a href="/" class="underline hover:opacity-60">here</a>.
 			</div>
 
 			<div class="my-10 col-span-4 md:col-span-8 lg:col-span-12 text-base sm:text-lg">
 				<h1 class="font-heading text-green-500 font-semibold text-xl">Media Enquires</h1>
 				<p>
 					For all media enquires, please contact <a
-						class="underline"
+						class="underline hover:opacity-60"
 						href="mailto:media@airbound.co">media@airbound.co</a
 					>
 				</p>
@@ -40,7 +42,7 @@
 				<p>
 					For all Business partnerships/collaborations, please contact <a
 						href="mailto:biz@airbound.co"
-						class="underline">biz@airbound.co</a
+						class="underline hover:opacity-60">biz@airbound.co</a
 					>
 				</p>
 			</div>

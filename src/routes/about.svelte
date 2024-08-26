@@ -27,31 +27,31 @@
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="https://linkedin.com/company/airbound-co"><i class="fab fa-linkedin-in" /></a
 						>
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="https://instagram.com/airbound.co"><i class="fab fa-instagram" /></a
 						>
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="https://twitter.com/airbound_co"><i class="fab fa-twitter" /></a
 						>
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
-							class="icon p-2 mx-1"
+							class="icon p-2 mx-1 hover:opacity-60"
 							href="mailto:info@airbound.co"><i class="far fa-envelope" /></a
 						>
 					</div>
 				</div>
 				<a
-					class="col-span-4 lg:col-start-8 lg:col-end-13 mx-auto map"
+					class="col-span-4 lg:col-start-8 lg:col-end-13 mx-auto map hover:opacity-60"
 					rel="noopener noreferrer"
 					href="https://goo.gl/maps/1gRqnYyTBbe88Rsx5"
 					target="_blank"><img src="/about/sample_map.png" alt="" /></a
@@ -151,7 +151,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://1517fund.com/"
-					class="investor-card py-14 px-10 mx-auto col-span-4 lg:grid-span-6 flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4 lg:grid-span-6 flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/1517.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">1517 Fund</h1>
@@ -160,7 +160,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://helpfulengineering.org/"
-					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/helpful.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Helpful Engineering</h1>
@@ -169,7 +169,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://mercatus.org/emergent-ventures"
-					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4 flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/EV.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Emergent Ventures</h1>
@@ -178,7 +178,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 					href="https://gradcapital.in"
-					class="investor-card py-14 px-10 mx-auto col-span-4  flex my-10 flex-col justify-center items-center"
+					class="investor-card py-14 px-10 mx-auto col-span-4  flex my-10 flex-col justify-center items-center hover:opacity-60"
 				>
 					<img class="rounded-3xl mb-6 pointer-events-none" src="/about/gc.png" alt="" />
 					<h1 class="font-heading text-green-500 font-semibold text-xl">Grad Capital</h1>

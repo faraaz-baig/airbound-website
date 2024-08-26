@@ -24,7 +24,9 @@
 						class="font-semibold">{error.message}</span
 					>
 				</p>
-				<a href="/" class="py-3 px-4 bg-blue-500 rounded-md md:text-lg">Go back to home</a>
+				<a href="/" class="py-3 px-4 bg-blue-500 rounded-md md:text-lg hover:opacity-60"
+					>Go back to home</a
+				>
 			</div>
 			<img class="mt-20 lg:mt-0 lg:hidden" src="/error/404image-mobile.svg" alt="404_error_image" />
 			<img class="mt-20 lg:mt-0 hidden lg:block" src="/error/404image.svg" alt="404_error_image" />

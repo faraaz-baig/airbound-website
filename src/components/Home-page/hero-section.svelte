@@ -106,6 +106,11 @@
 		background: #1d3dae;
 		backdrop-filter: blur(12.0437px);
 	}
+
+	form button:hover {
+		opacity: 0.6;
+	}
+
 	form input {
 		width: calc(100% - 140px);
 	}
